@@ -32,7 +32,7 @@ const reviews=[
         name: "Mark Zucerberg",
         job: "Data Analyst",
         image:"Mark_Berg.jpg",
-        text:"Engineering has taught me that every problem has a solution, and every solution is an opportunity to learn, grow, and innovate. Every project I undertake reflects my dedication to quality, precision, and the pursuit of engineering excellence.",
+        text:"Engineering has taught me that every problem has a solution, and every solution is an opportunity to learn, grow, and innovate. Every project I undertake reflects my dedication to quality, precision, and the pursuit of engineering excellence...",
     },
 
 ]
