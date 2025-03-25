@@ -14,7 +14,7 @@ import { FaQuoteLeft, FaQuoteRight } from 'react-icons/fa';
         </div>
 
         <div className='text-center mt-7'>
-            <p className='tracking-wider font-bold text-2xl capitalize '>{review.name}</p>
+            <p className='tracking-wider font-bold text-2xl capitalize'>{review.name}</p>
             <p className='text-violet-300 uppercase text-sm'>{review.job}</p>
         </div>
  
